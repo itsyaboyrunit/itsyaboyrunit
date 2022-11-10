@@ -39,7 +39,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/itsyaboyrunit/github-readme-streak-stats">
+    <a href="[https://github.com/itsyaboyrunit/github-readme-streak-stats](https://streak-stats.demolab.com?user=itsyaboyrunit&theme=tokyonight)">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Runit Mhatre streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itsyaboyrunit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
